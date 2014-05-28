@@ -1,3 +1,8 @@
 [submodule "microrl"]
 	path = microrl
 	url = https://github.com/bvernoux/microrl
+	branch = master
+[submodule "chibios"]
+	path = chibios
+	url = https://github.com/bvernoux/ChibiOS-RT
+	branch = stable_2.6.x
