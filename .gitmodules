@@ -4,5 +4,5 @@
 	branch = master
 [submodule "chibios"]
 	path = chibios
-	url = https://github.com/bvernoux/ChibiOS-RT
+	url = https://github.com/bvernoux/ChibiOS-RT.git
 	branch = stable_2.6.x
