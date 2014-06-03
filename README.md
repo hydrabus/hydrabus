@@ -13,6 +13,6 @@ See https://github.com/bvernoux/micropython
 To build micropython HydraBus port do:
 
     $ cd stmhal
-    $ make -DBOARD=HYDRABUS
+    $ make BOARD=HYDRABUS
 
 For more details see original micropython github: https://github.com/micropython/micropython
