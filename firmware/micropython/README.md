@@ -21,7 +21,7 @@ For windows users, how to flash micropython firmware for HydraBus:
 Micro Python port for HydraBus (Beta version):
 See https://github.com/bvernoux/micropython
 
-To build micropython HydraBus port do:
+To build micropython HydraBus port from https://github.com/bvernoux/micropython do:
 
     $ cd stmhal
     $ make BOARD=HYDRABUS
