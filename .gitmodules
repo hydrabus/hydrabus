@@ -1,0 +1,6 @@
+[submodule "firmware/hydrafw/microrl"]
+	path = firmware/hydrafw/microrl
+	url = https://github.com/bvernoux/microrl.git
+[submodule "firmware/hydrafw/chibios"]
+	path = firmware/hydrafw/chibios
+	url = https://github.com/bvernoux/ChibiOS-RT

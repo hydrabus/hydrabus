@@ -5,11 +5,16 @@ HydraBus an open source multi-tool hardware
 
 ![HydraBus board](HydraBus_board.jpg)
 
-HydraBus Hardware:
-See directory hardware
+Firmware source code:
+Directory firmware/microptyhon for instructions and latest binary+tools to flash it on HydraBus
+Directory firmware/hydrafw  for instructions for HydraBus / HydraNFC Shield native firmware
 
-HydraBus Firmware:
-See directory firmware/hydrabus (will be published soon)
+Micro Python port for HydraBus (Beta version):
+See https://github.com/bvernoux/micropython
 
-Micro Python firmware port for HydraBus:
-See directory firmware/micropython
+To build micropython HydraBus port do:
+
+    $ cd stmhal
+    $ make BOARD=HYDRABUS
+
+For more details see original micropython github: https://github.com/micropython/micropython
