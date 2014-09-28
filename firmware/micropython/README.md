@@ -5,6 +5,8 @@ HydraBus an open source multi-tool hardware
 
 ![HydraBus board](HydraBus_board.jpg)
 
+You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop: http://www.seeedstudio.com/depot/HydraBus-m-132.html
+
 For windows users, how to flash micropython firmware for HydraBus:
 
     1) PowerOff HydraBus board (disconnect all USB)
