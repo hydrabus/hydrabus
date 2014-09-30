@@ -1,0 +1,2 @@
+For file HydraBus_v1_0_SoBv1_DP6037-Top.svg:
+Laser cutting size 456mm => Seeed Studio Difficulty Easy (Length of Cutting line Below 60cm)
