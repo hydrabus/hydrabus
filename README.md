@@ -10,7 +10,7 @@ http://www.seeedstudio.com/depot/HydraBus-m-132.html
 
 Firmware source code:
 
-    Directory firmware/microptyhon:
+    Directory firmware/micropython:
         For instructions and latest binary+tools to flash it on HydraBus
     Directory firmware/hydrafw:
         For instructions for HydraBus / HydraNFC Shield native firmware
