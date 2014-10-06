@@ -4,3 +4,6 @@
 [submodule "firmware/hydrafw/chibios"]
 	path = firmware/hydrafw/chibios
 	url = https://github.com/bvernoux/ChibiOS-RT
+[submodule "firmware/micropython/micropython"]
+	path = firmware/micropython/micropython
+	url = https://github.com/bvernoux/micropython
