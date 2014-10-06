@@ -21,7 +21,7 @@ For windows users, how to flash micropython firmware for HydraBus:
     7) Reconnect MicroUsb cable on USB1, Now micropython is started.
 
 Micro Python port for HydraBus (Beta version):
-See https://github.com/bvernoux/micropython
+See https://github.com/bvernoux/micropython also included here as submodule
 
 To build micropython HydraBus port from https://github.com/bvernoux/micropython do:
 
