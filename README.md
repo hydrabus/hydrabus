@@ -12,6 +12,8 @@ http://www.seeedstudio.com/depot/HydraBus-m-132.html
 
 Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
 
+HydraFW official firmware for HydraBus/HydraNFC: https://github.com/bvernoux/hydrafw
+
 Firmware source code:
 
     Directory firmware/micropython:
