@@ -1,4 +1,4 @@
-hydrabus
+HydraBus
 ========
 
 HydraBus an open source multi-tool hardware
@@ -17,13 +17,14 @@ Wiki Getting Started: https://github.com/bvernoux/hydrafw/wiki/Getting-Started-w
 HydraFW official firmware for HydraBus/HydraNFC: https://github.com/bvernoux/hydrafw
 
 Firmware source code:
-
+========
     Directory firmware/micropython:
         For instructions and latest binary+tools to flash it on HydraBus
     Directory firmware/hydrafw:
         For instructions for HydraBus / HydraNFC Shield native firmware
 
-Micro Python port for HydraBus (Beta version):
+Micro Python port for HydraBus
+========
 See https://github.com/bvernoux/micropython
 
 To build micropython HydraBus port do:
@@ -33,8 +34,8 @@ To build micropython HydraBus port do:
 
 For more details see original micropython github: https://github.com/micropython/micropython
 
-Black Magic JTAG/SWD port for HydraBus:
-
+Black Magic JTAG/SWD debugger port for HydraBus
+========
 See https://github.com/bvernoux/blackmagic
 
 See https://github.com/bvernoux/blackmagic/tree/master/src/platforms/hydrabus
