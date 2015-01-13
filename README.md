@@ -32,3 +32,10 @@ To build micropython HydraBus port do:
     $ make BOARD=HYDRABUS
 
 For more details see original micropython github: https://github.com/micropython/micropython
+
+Black Magic JTAG/SWD port for HydraBus:
+
+See https://github.com/bvernoux/blackmagic
+
+See https://github.com/bvernoux/blackmagic/tree/master/src/platforms/hydrabus
+
