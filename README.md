@@ -10,18 +10,17 @@ http://www.seeedstudio.com/depot/HydraBus-m-132.html
 
 ![HydraBus pins assignment](http://hydrabus.com/HydraBus_1_0_PinAssignment.jpg)
 
-Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
-
 Wiki Getting Started: https://github.com/bvernoux/hydrafw/wiki/Getting-Started-with-HydraBus
 
-HydraFW official firmware for HydraBus/HydraNFC: https://github.com/bvernoux/hydrafw
-
-Firmware source code:
+HydraFW official firmware for Hydrabus
 ========
-    Directory firmware/micropython:
-        For instructions and latest binary+tools to flash it on HydraBus
-    Directory firmware/hydrafw:
-        For instructions for HydraBus / HydraNFC Shield native firmware
+
+Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
+
+See https://github.com/bvernoux/hydrafw
+
+To build hydrafw do:
+See instructions here: https://github.com/bvernoux/hydrafw#how-to-build-flash-and-use-hydrafw-on-windows
 
 Micro Python port for HydraBus
 ========
@@ -38,5 +37,11 @@ Black Magic JTAG/SWD debugger port for HydraBus
 ========
 See https://github.com/bvernoux/blackmagic
 
-See https://github.com/bvernoux/blackmagic/tree/master/src/platforms/hydrabus
+To build Black Magic HydraBus port do:
+
+    $ cd blackmagic/src
+    $ make PROBE_HOST=hydrabus
+
+For more details on hydrabus port see:
+https://github.com/bvernoux/blackmagic/tree/master/src/platforms/hydrabus
 
