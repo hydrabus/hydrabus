@@ -17,7 +17,7 @@ For windows users, how to flash micropython firmware for HydraBus:
     4) Download the USB DFU driver from directory hydrabus/firmware/STM32F4_USB_DFU_Driver.zip
      4-1) Extract the archive and install the drivers.
     5) Launch from current directory update_fw_usb_dfu_hydrabus.bat (will flash latest firmware during about 20s)
-    6) Disconnect MicroUsb cable from HydraBus and Disconnect "BOOT0 to 3V3"
+    6) Disconnect MicroUsb cable from HydraBus and Disconnect "BOOT0 to 3V3" & "BOOT1 to GND" 
     7) Reconnect MicroUsb cable on USB1, Now micropython is started.
 
 Micro Python port for HydraBus (Beta version):
