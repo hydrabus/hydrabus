@@ -10,7 +10,7 @@ You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop: http://www.see
 For windows users, how to flash micropython firmware for HydraBus:
 
     1) PowerOff HydraBus board (disconnect all USB)
-    2) Connect HydraBus pin BOOT0 to 3V3 (using a dual female splittable jumper wire) to enter USB DFU
+    2) Connect HydraBus pins "BOOT0 to 3V3" & "BOOT1 to GND" (using two dual female splittable jumper wire) to enter USB DFU
     3) Connect MicroUsb cable from PC to HydraBus USB1 board, now windows shall detect a new device
        (if you have problem to detect the device use an USB1.1 or 2.0 Hub
           as there is problem with USB3.0 port on some computer and windows version).
