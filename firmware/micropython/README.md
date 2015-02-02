@@ -3,7 +3,7 @@ hydrabus micropython port firmware
 
 HydraBus an open source multi-tool hardware
 
-![HydraBus board](HydraBus_board.jpg)
+![HydraBus board](https://raw.githubusercontent.com/bvernoux/hydrafw/master/HydraBus_board.jpg)
 
 You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop: http://www.seeedstudio.com/depot/HydraBus-m-132.html
 
