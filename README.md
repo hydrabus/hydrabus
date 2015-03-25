@@ -20,7 +20,9 @@ Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
 See https://github.com/bvernoux/hydrafw
 
 To build hydrafw do:
-See instructions here: https://github.com/bvernoux/hydrafw#how-to-build-flash-and-use-hydrafw-on-windows
+See instructions here: 
+* Windows: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-windows
+* Linux: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-linux
 
 Micro Python port for HydraBus
 ========
