@@ -19,8 +19,7 @@ Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
 
 See https://github.com/bvernoux/hydrafw
 
-To build hydrafw do:
-See instructions here: 
+To build hydrafw see instructions here: 
 * Windows: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-windows
 * Linux: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-linux
 
