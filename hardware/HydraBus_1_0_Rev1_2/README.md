@@ -1,4 +1,4 @@
-HydraBus Schematic and Board CadSoft Eagle 6.x
+HydraBus Schematic and Board CadSoft Eagle 7.x
 ========
 
 This directory contains HydraBus Schematic and Board for CadSoft Eagle 7.1 or more (free version works too)
