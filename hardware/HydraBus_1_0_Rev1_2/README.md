@@ -12,7 +12,7 @@ For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-speci
 
 V1.0 Revision 1.2 (Fully Compatible with Previous Board V1.0 Rev1.1):
   * Labels on both sides of the PCB with GPIO names (PBx, PCx ...).
-  * Added R7 2.2K on PB2, BOOT0 is connected to JMP1-2 for easier BOOT USB DFU.
+  * Added R7 10K on PB2, BOOT0 is connected to JMP1-2 for easier BOOT USB DFU.
     * BOOT USB DFU (do not require any wire):
       1. Press UBTN button then Press RESET button
       2. Keep pressing UBTN then Release RESET
