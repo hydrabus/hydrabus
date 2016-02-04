@@ -10,9 +10,10 @@ http://www.seeedstudio.com/depot/HydraBus-m-132.html
 
 For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-specifications/
 
-* V1.0 Revision 1.2 (Fully Compatible with Previous Board V1.0 Rev1.1)
-  * Added R14 2.2K on Boot1 & GND(Pull Down) for easier USB DFU.
-  * New BOOT USB DFU done by Hardware (do not require any wire):
-    1. Press UBTN button then Press RESET button
-    2. Keep pressing UBTN then Release RESET
-    3. Wait 1s then Release UBTN
+V1.0 Revision 1.2 (Fully Compatible with Previous Board V1.0 Rev1.1):
+  * Labels on both sides of the PCB with GPIO names (PBx, PCx ...).
+  * Added R7 2.2K on PB2, BOOT0 is connected to JMP1-2 for easier BOOT USB DFU.
+    * BOOT USB DFU (do not require any wire):
+      1. Press UBTN button then Press RESET button
+      2. Keep pressing UBTN then Release RESET
+      3. Wait 1s then Release UBTN
