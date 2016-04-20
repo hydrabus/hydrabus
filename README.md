@@ -43,6 +43,6 @@ To build Black Magic HydraBus port do:
     $ cd blackmagic/src
     $ make PROBE_HOST=hydrabus
 
-For more details on hydrabus port see:
-https://github.com/bvernoux/blackmagic/tree/master/src/platforms/hydrabus
+For more details on official hydrabus port see:
+https://github.com/blacksphere/blackmagic/tree/master/src/platforms/hydrabus
 
