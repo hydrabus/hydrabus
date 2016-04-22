@@ -5,9 +5,6 @@ This directory contains HydraBus Schematic and Board for CadSoft Eagle 7.1 or mo
 
 HydraBus: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
 
-You can buy online HydraBus at Seeed Studio shop: 
-http://www.seeedstudio.com/depot/HydraBus-m-132.html
-
 For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-specifications/
 
 V1.0 Revision 1.2 (Fully Compatible with Previous Board V1.0 Rev1.1):
