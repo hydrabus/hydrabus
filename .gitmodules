@@ -1,6 +1,0 @@
-[submodule "firmware/hydrafw"]
-	path = firmware/hydrafw
-	url = https://github.com/bvernoux/hydrafw.git
-[submodule "firmware/micropython/micropython"]
-	path = firmware/micropython/micropython
-	url = https://github.com/bvernoux/micropython
