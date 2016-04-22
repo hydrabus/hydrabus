@@ -5,8 +5,7 @@ HydraBus an open source multi-tool hardware
 
 ![HydraBus board](HydraBus_board.jpg)
 
-You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop:
-http://www.seeedstudio.com/depot/HydraBus-m-132.html
+You can Buy HydraBus/HydraNFC Online: http://hydrabus.com/buy-online
 
 ![HydraBus pins assignment](http://hydrabus.com/HydraBus_1_0_PinAssignment.jpg)
 
