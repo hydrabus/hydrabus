@@ -41,7 +41,7 @@ For more details on official micropython hydrabus port see: https://github.com/m
 
 Official Black Magic JTAG/SWD debugger port for HydraBus
 ========
-See https://github.com/bvernoux/blackmagic
+See https://github.com/blacksphere/blackmagic.git
 
 Before to build the firmware check this issue (as you need a new GCC ARM Compiler >=4.9): https://github.com/blacksphere/blackmagic/issues/128
 
