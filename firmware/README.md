@@ -3,9 +3,6 @@ hydrabus firmware
 
 HydraBus firmware directories for HydraBus hardware
 
-You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop:
-http://www.seeedstudio.com/depot/HydraBus-m-132.html
-
 Firmware source code:
 
     Directory micropython:
