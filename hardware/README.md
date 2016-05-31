@@ -5,6 +5,9 @@ This directory contains HydraBus Hardware:
 Schematic, Board, Template for CadSoft Eagle 6.x (free version works too)
 Case for HydraBus and documentations Pin Out.
 
+For HydraBus_1_0_Shield_Template_Rev0 under Kicad see
+* https://github.com/AnttiNykanen/hydrabus-shield-template-kicad
+
 Licenses:
 
     HydraBus_1_0_Rev1_1: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
