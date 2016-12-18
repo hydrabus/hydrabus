@@ -9,18 +9,18 @@ You can Buy HydraBus/HydraNFC Online: http://hydrabus.com/buy-online
 
 ![HydraBus pins assignment](http://hydrabus.com/HydraBus_1_0_PinAssignment.jpg)
 
-Wiki Getting Started: https://github.com/bvernoux/hydrafw/wiki/Getting-Started-with-HydraBus
+Wiki Getting Started: https://github.com/hydrabus/hydrafw/wiki/Getting-Started-with-HydraBus
 
 HydraFW official firmware for Hydrabus
 ========
 
-Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
+Wiki for HydraFW: https://github.com/hydrabus/hydrafw/wiki
 
-See https://github.com/bvernoux/hydrafw
+See https://github.com/hydrabus/hydrafw
 
 To build hydrafw see instructions here: 
-* Windows: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-windows
-* Linux: https://github.com/bvernoux/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-linux
+* Windows: https://github.com/hydrabus/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-windows
+* Linux: https://github.com/hydrabus/hydrafw/wiki/how-to-build-flash-and-use-hydrafw-on-linux
 
 Official Micro Python port for HydraBus
 ========
@@ -35,7 +35,7 @@ To build micropython for HydraBus do:
 * At end of build you shall have:
  * Create build-HYDRABUS/firmware.dfu
  * Create build-HYDRABUS/firmware.hex
-* In order to flash the *.dfu follow steps here: https://github.com/bvernoux/hydrafw/wiki/Getting-Started-with-HydraBus
+* In order to flash the *.dfu follow steps here: https://github.com/hydrabus/hydrafw/wiki/Getting-Started-with-HydraBus
 
 For more details on official micropython hydrabus port see: https://github.com/micropython/micropython/tree/master/stmhal/boards/HYDRABUS
 
