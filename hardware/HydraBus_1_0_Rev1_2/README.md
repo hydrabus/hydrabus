@@ -3,7 +3,7 @@ HydraBus Schematic and Board CadSoft Eagle 7.x
 
 This directory contains HydraBus Schematic and Board for CadSoft Eagle 7.1 or more (free version works too)
 
-HydraBus: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
+HydraBus: Hardware license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (for commercial licence contact info@hydrabus.com)
 
 For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-specifications/
 
