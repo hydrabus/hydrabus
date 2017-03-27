@@ -10,9 +10,12 @@ For HydraBus_1_0_Shield_Template_Rev0 under Kicad see
 
 Licenses:
 
-    HydraBus_1_0_Rev1_1: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
-    HydraBus_1_0_Rev1_SoBv1_DP6037 : Hardware licence CC BY-SA 4.0
-    HydraBus_1_0_Shield_Template_Rev0: Hardware licence CC BY-SA 4.0
+    HydraBus_1_0_Rev1_1: Hardware license CC BY NC (for commercial licence contact info@hydrabus.com)
+    HydraBus_1_0_Rev1_2: Hardware license CC BY NC (for commercial licence contact info@hydrabus.com)
+    HydraBus_1_0_Rev1_2plus: Hardware license CC BY NC (for commercial licence contact info@hydrabus.com)
+    
+    HydraBus_1_0_Rev1_SoBv1_DP6037 : Hardware license CC BY-SA 4.0
+    HydraBus_1_0_Shield_Template_Rev0: Hardware license CC BY-SA 4.0
 
 You can buy online HydraBus: http://hydrabus.com/buy-online
 
