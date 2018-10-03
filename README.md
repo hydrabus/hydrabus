@@ -37,7 +37,7 @@ To build micropython for HydraBus do:
  * Create build-HYDRABUS/firmware.hex
 * In order to flash the *.dfu follow steps here: https://github.com/hydrabus/hydrafw/wiki/Getting-Started-with-HydraBus
 
-For more details on official micropython hydrabus port see: https://github.com/micropython/micropython/tree/master/stmhal/boards/HYDRABUS
+For more details on official micropython hydrabus port see: https://github.com/micropython/micropython/tree/master/ports/stm32/boards/HYDRABUS
 
 Official Black Magic JTAG/SWD debugger port for HydraBus
 ========
