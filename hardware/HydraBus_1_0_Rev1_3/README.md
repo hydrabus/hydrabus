@@ -8,5 +8,5 @@ HydraBus: Hardware license [CC BY-NC 4.0](https://creativecommons.org/licenses/b
 For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-specifications
 
 Revision 1.3 (vs Rev 1.2+)
-- Modified the 2 microUSB to new ones more robust (HRO_U-F-M5DD-Y-L)
-- Minor board routing improvment/optimization
+- Modified the 2 microUSB to new ones which are more robust (HRO_U-F-M5DD-Y-L)
+- Minor board routing improvement/optimization
