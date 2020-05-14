@@ -8,8 +8,6 @@ HydraBus: Hardware license [CC BY-NC 4.0](https://creativecommons.org/licenses/b
 For more details on the hardware see also http://hydrabus.com/hydrabus-1-0-specifications
 
 Revision 1.4 (vs Rev 1.3)
-- Modified the 2 microUSB to new ones which are more robust (HRO_U-F-M5DD-Y-L)
-- Minor board routing improvement/optimization
 - The BOM has been optimized to find/buy most of the parts on lcsc.com
 - HydraBus v1 Rev1.4 is fully designed under KiCad 5.1.5-2 (Latest official stable release), before it was designed with Eagle 6.x
 - 8MHz Crystal Y1 has been replaced by a SMD part (Yangxing Tech X50328MSB2GI) on top side of the PCB with better performances (X50328MSB2GI +/-10ppm vs +/-30ppm on FOXSLF/080-20).
