@@ -7,7 +7,7 @@ HydraBus an open source multi-tool hardware
 
 You can Buy HydraBus/HydraNFC Online: http://hydrabus.com/buy-online
 
-![HydraBus pins assignment](http://hydrabus.com/HydraBus_1_0_PinAssignment.jpg)
+![HydraBus pins assignment](HydraFW_Default_PinAssignment.png)
 
 Wiki Getting Started: https://github.com/hydrabus/hydrafw/wiki/Getting-Started-with-HydraBus
 
