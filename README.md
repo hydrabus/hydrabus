@@ -25,16 +25,18 @@ To build hydrafw see instructions here:
 Official Micro Python port for HydraBus
 ========
 See https://github.com/micropython/micropython
+Tested with GCC ARM 4.9 2015q3(GNU_ARM_4_9_2015q3) 
+* See https://github.com/hydrabus/hydrafw_hydranfc_shield_v2/wiki `How to Build/Flash/Use HydraFW` for more details
 
 To build micropython for HydraBus do:
 
     $ git clone --recursive https://github.com/micropython/micropython
-    $ cd micropython/stmhal
+    $ cd micropython/ports/stm32
     $ make BOARD=HYDRABUS
 
 * At end of build you shall have:
- * Create build-HYDRABUS/firmware.dfu
- * Create build-HYDRABUS/firmware.hex
+ * GEN build-HYDRABUS/firmware.dfu
+ * GEN build-HYDRABUS/firmware.hex
 * In order to flash the *.dfu follow steps here: https://github.com/hydrabus/hydrafw/wiki/Getting-Started-with-HydraBus
 
 For more details on official micropython hydrabus port see: https://github.com/micropython/micropython/tree/master/ports/stm32/boards/HYDRABUS
@@ -44,6 +46,8 @@ Official Black Magic JTAG/SWD debugger port for HydraBus
 See https://github.com/blacksphere/blackmagic.git
 
 Before to build the firmware check this issue (as you need a new GCC ARM Compiler >=4.9): https://github.com/blacksphere/blackmagic/issues/128
+Tested with GCC ARM 4.9 2015q3(GNU_ARM_4_9_2015q3) 
+* See https://github.com/hydrabus/hydrafw_hydranfc_shield_v2/wiki `How to Build/Flash/Use HydraFW` for more details
 
 To build Black Magic for HydraBus do:
 
