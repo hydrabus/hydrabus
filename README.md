@@ -30,9 +30,9 @@ Tested with GCC ARM 4.9 2015q3(GNU_ARM_4_9_2015q3)
 
 To build micropython for HydraBus do:
 
-    $ git clone --recursive https://github.com/micropython/micropython
-    $ cd micropython/ports/stm32
-    $ make BOARD=HYDRABUS
+    git clone --recursive https://github.com/micropython/micropython
+    cd micropython/ports/stm32
+    make BOARD=HYDRABUS
 
 * At end of build you shall have:
  * GEN build-HYDRABUS/firmware.dfu
@@ -46,14 +46,17 @@ Official Black Magic JTAG/SWD debugger port for HydraBus
 See https://github.com/blacksphere/blackmagic.git
 
 Before to build the firmware check this issue (as you need a new GCC ARM Compiler >=4.9): https://github.com/blacksphere/blackmagic/issues/128
-Tested with GCC ARM 4.9 2015q3(GNU_ARM_4_9_2015q3) 
+Tested with GCC ARM 4.9 2015q3(GNU_ARM_4_9_2015q3)
+* See working version for reference blackmagic_branch_hydrabus_Firmware 1.5-00319-g49390fe-dirty.zip:
+  * https://github.com/hydrabus/hydrabus/files/11436416/blackmagic_branch_hydrabus_Firmware.1.5-00319-g49390fe-dirty.zip
+* Note: Latest version of blackmagic have "Device failed enumeration" issue see https://github.com/hydrabus/hydrabus/issues/4
 * See https://github.com/hydrabus/hydrafw_hydranfc_shield_v2/wiki `How to Build/Flash/Use HydraFW` for more details
 
 To build Black Magic for HydraBus do:
 
-    $ git clone --recursive https://github.com/blacksphere/blackmagic.git
-    $ cd blackmagic
-    $ make PROBE_HOST=hydrabus
+    git clone --recursive https://github.com/blacksphere/blackmagic.git
+    cd blackmagic
+    make PROBE_HOST=hydrabus
 
 * At end of build you shall have:
  * OBJCOPY blackmagic.bin
