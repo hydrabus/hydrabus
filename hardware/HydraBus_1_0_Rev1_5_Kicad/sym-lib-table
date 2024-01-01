@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "HydraBus")(type "Legacy")(uri "${KIPRJMOD}/HydraBus.lib")(options "")(descr ""))
+)

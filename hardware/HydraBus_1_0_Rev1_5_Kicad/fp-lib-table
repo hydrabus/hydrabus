@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HydraBus)(type KiCad)(uri "$(KIPRJMOD)/HydraBus.pretty")(options "")(descr ""))
+)
